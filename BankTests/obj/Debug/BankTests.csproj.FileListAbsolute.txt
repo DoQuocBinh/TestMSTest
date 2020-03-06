@@ -1,0 +1,9 @@
+\\mac\home\documents\visual studio 2015\Projects\Bank\BankTests\bin\Debug\BankTests.dll
+\\mac\home\documents\visual studio 2015\Projects\Bank\BankTests\bin\Debug\BankTests.pdb
+\\mac\home\documents\visual studio 2015\Projects\Bank\BankTests\bin\Debug\Bank.exe
+\\mac\home\documents\visual studio 2015\Projects\Bank\BankTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+\\mac\home\documents\visual studio 2015\Projects\Bank\BankTests\bin\Debug\Bank.pdb
+\\mac\home\documents\visual studio 2015\Projects\Bank\BankTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+\\mac\home\documents\visual studio 2015\Projects\Bank\BankTests\obj\Debug\BankTests.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\Bank\BankTests\obj\Debug\BankTests.dll
+\\mac\home\documents\visual studio 2015\Projects\Bank\BankTests\obj\Debug\BankTests.pdb
