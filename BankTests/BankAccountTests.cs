@@ -7,6 +7,14 @@ namespace BankTests
     [TestClass]
     public class BankAccountTests
     {
+        static int k = 2;
+
+        [ClassInitialize]
+        public static void TestFixtureSetup(TestContext context)
+        {
+            k = 100;
+        }
+
         private TestContext testContextInstance;
         public TestContext TestContext
         {

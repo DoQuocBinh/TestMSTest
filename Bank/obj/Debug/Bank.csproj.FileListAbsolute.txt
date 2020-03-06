@@ -1,6 +1,0 @@
-\\mac\home\documents\visual studio 2015\Projects\Bank\Bank\bin\Debug\Bank.exe.config
-\\mac\home\documents\visual studio 2015\Projects\Bank\Bank\bin\Debug\Bank.exe
-\\mac\home\documents\visual studio 2015\Projects\Bank\Bank\bin\Debug\Bank.pdb
-\\mac\home\documents\visual studio 2015\Projects\Bank\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
-\\mac\home\documents\visual studio 2015\Projects\Bank\Bank\obj\Debug\Bank.exe
-\\mac\home\documents\visual studio 2015\Projects\Bank\Bank\obj\Debug\Bank.pdb
